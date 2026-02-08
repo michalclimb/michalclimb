@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>MichalClimb</title>
+</head>
+<body>
+
+<h1>MichalClimb 🧗</h1>
+<p>Wspinaczka • Opinie • Tierlisty</p>
+
+<nav>
+  <ul>
+    <li><a href="sciany.html">Ściany</a></li>
+    <li><a href="skaly.html">Skały</a></li>
+    <li><a href="sprzet.html">Sprzęt</a></li>
+  </ul>
+</nav>
+
+<p>To moja strona o wspinaczce. Moje opinie + dyskusje.</p>
+
+</body>
+</html>
